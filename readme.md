@@ -39,8 +39,6 @@ Build RESTful routes so that you can:
 * **amount**: (Integer) A positive or negative number depending on the type of transaction. Required.
 * **account_id**: (Integer) Account id for the owner of the transaction.
 
-
-
 ## Extra Resources
 
 ### [Writing Clean Code](https://gist.github.com/S-Romberg/bd68dbbcdfe74d6b944d580a62cd9f7c)
@@ -177,8 +175,6 @@ take notes on your problem and come to class with questions. **TAKE BREAKS** You
 - [Extra APIs](https://github.com/toddmotto/public-apis/blob/master/README.md?target="_blank")
 
 - [Wireframing](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/?target="_blank")
-
-- [How To Present]( https://github.com/gSchool/present-projects/tree/master/drills/version-1?target="_blank")
 
 - [Atlassian Git Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows?target="_blank")
 
