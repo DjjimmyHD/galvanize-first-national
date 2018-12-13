@@ -149,40 +149,46 @@ Build RESTful routes so that you can:
 If you have been working on the same problem for more than 15 minutes, stop or ask for help. If you cant get help immediately,
 take notes on your problem and come to class with questions. **TAKE BREAKS** You will burn out if you don't set up healthy habits to help you out when you're struggling. There are so many things you could be working on outside of trying to find that one syntax error. Make sure you start with a clear goal in mind and also retro your process. Below is a list of helpful time management resources.
 
-- [Pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
+* [Pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
 
-- [Polya](https://math.berkeley.edu/~gmelvin/polya.pdf)
+* [Polya](https://math.berkeley.edu/~gmelvin/polya.pdf)
 
-- [Trello](https://trello.com/)
+* [Trello](https://trello.com/)
 
-- [Pocket](https://getpocket.com/)
+* [Pocket](https://getpocket.com/)
 
-- [Focus at will](https://www.focusatwill.com/app/)
+* [Focus at will](https://www.focusatwill.com/app/)
 
-- [Time out](https://itunes.apple.com/us/app/time-out-break-reminders/id402592703?mt=12)
+* [Time out](https://itunes.apple.com/us/app/time-out-break-reminders/id402592703?mt=12)
 
 
 #### "Arrgh, They Be More Like Guidelines"
 
-- Your site *should* use semantic html
-- Your site *should* have a clear theme
-- Your group *should* choose a PM _this person must also code_
-- Your group *should* spend equal time planning and coding
-- You group *should* build in full features
-- You group *should* always be moving towards MVP
-- Your site/app *should* work...
+* Your site *should* use semantic html
 
-- [Extra APIs](https://github.com/toddmotto/public-apis/blob/master/README.md?target="_blank")
+* Your site *should* have a clear theme
 
-- [Wireframing](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/?target="_blank")
+* Your group *should* choose a PM _this person must also code_
 
-- [Atlassian Git Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows?target="_blank")
+* Your group *should* spend equal time planning and coding
 
-- [Github Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf?target="_blank")
+* You group *should* build in full features
 
-- [Git Team Cheat Sheet](https://jameschambers.co/writing/git-team-workflow-cheatsheet/?target="_blank")
+* You group *should* always be moving towards MVP
 
-- [Why Pair Program?](https://www.agilealliance.org/glossary/pairing/#q=~(filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'pair*20programming))~searchTerm~'~sort~false~sortDirection~'asc~page~1)target="_blank")
+* Your site/app *should* work...
+
+* [Extra APIs](https://github.com/toddmotto/public-apis/blob/master/README.md?target="_blank")
+
+* [Wireframing](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/?target="_blank")
+
+* [Atlassian Git Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows?target="_blank")
+
+* [Github Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf?target="_blank")
+
+* [Git Team Cheat Sheet](https://jameschambers.co/writing/git-team-workflow-cheatsheet/?target="_blank")
+
+* [Why Pair Program?](https://www.agilealliance.org/glossary/pairing/#q=~(filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'pair*20programming))~searchTerm~'~sort~false~sortDirection~'asc~page~1)target="_blank")
 
 ### Expectations
 
